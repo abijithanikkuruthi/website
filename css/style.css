@@ -8787,3 +8787,15 @@ textarea.form-control {
 .word-break {
   word-break: break-all;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.max-width-90 {
+  max-width: 90%;
+}
+
+.pad-lr-10 {
+  padding: 0 10px;
+}
